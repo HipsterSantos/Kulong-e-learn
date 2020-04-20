@@ -1,0 +1,8 @@
+<pc-nh-dashboard-navbar></pc-nh-dashboard-navbar>
+<pc-nh-sidebar></pc-nh-sidebar>
+<div class="main-content">
+    <!-- <p>,</p> -->
+    <router-outlet ></router-outlet>
+</div>
+
+<router-outlet name="notification" *ngIf="openNotification"></router-outlet>

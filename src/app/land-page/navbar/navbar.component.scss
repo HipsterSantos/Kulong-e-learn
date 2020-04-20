@@ -1,0 +1,50 @@
+@import "../../../assets/page-content/color.scss";
+.pc-nh-navbar {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  // width: 100vw;
+  // z-index: 0;
+  height: 80px;
+  background: linear-gradient(160deg,$footer,$badge);
+  box-shadow: 1px 12px 24px rgba(0,0,0,.4);
+  z-index: 400;
+}
+.pc-nh-navbar ul {
+  display: flex;
+  list-style-type: none;
+  z-index: 9;
+  margin: 0;
+  height: inherit;
+}
+.pc-nh-navbar ul > li {
+  margin-left: 2em;
+  margin-top: 30px;
+}
+.pc-nh-navbar ul > li.homeli {
+  margin-left: 4em;
+}
+.pc-nh-navbar ul > li.navleft {
+  margin-left: auto;
+  margin-right: 4em;
+}
+
+.pc-nh-navbar ul > li > a,
+span {
+  text-decoration: none;
+  color: #fff;
+  font-family: GothamMedium;
+}
+.navlogo {
+  display: flex;
+  position: relative;
+  top: -15px;
+  //   margin-top: -20px;
+}
+span {
+  position: relative;
+  top: 30px;
+  margin-left: -5px;
+}

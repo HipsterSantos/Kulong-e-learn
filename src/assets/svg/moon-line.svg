@@ -1,0 +1,15 @@
+<svg id="moon-line" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="36" height="36" viewBox="0 0 36 36">
+  <defs>
+    <clipPath id="clip-path">
+      <path id="Mask" d="M15.12,30.24A15.12,15.12,0,0,1,15.12,0a14.707,14.707,0,0,1,5,.87,1,1,0,0,1,.67.91,1,1,0,0,1-.61,1A11,11,0,0,0,24.41,23.8h.85a.993.993,0,0,1,.86,1.631,14.778,14.778,0,0,1-10.911,4.81Z" transform="translate(0.74 0.83)"/>
+    </clipPath>
+  </defs>
+  <g id="color" transform="translate(4 2)">
+    <path id="Mask-2" data-name="Mask" d="M15.12,30.24A15.12,15.12,0,0,1,15.12,0a14.707,14.707,0,0,1,5,.87,1,1,0,0,1,.67.91,1,1,0,0,1-.61,1A11,11,0,0,0,24.41,23.8h.85a.993.993,0,0,1,.86,1.631,14.778,14.778,0,0,1-10.911,4.81Z" transform="translate(0.74 0.83)"/>
+    <g id="color-2" data-name="color" clip-path="url(#clip-path)">
+      <g id="color-3" data-name="color" transform="translate(-4 -2)">
+        <rect id="Rectangle" width="36" height="36" fill="#737373"/>
+      </g>
+    </g>
+  </g>
+</svg>

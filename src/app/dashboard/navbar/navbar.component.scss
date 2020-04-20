@@ -1,0 +1,67 @@
+@import "../../../assets/page-content/color.scss";
+.dash-nav {
+  position: fixed;
+  width: 100vw;
+  height: 80px;
+//   top:-80 !important;
+  font-family: GothamMedium;
+  font-weight: 600;
+  color: #fff;
+  background: #272626;
+  box-shadow: 1px 12px 24px rgba(0, 0, 0, 0.4);
+  z-index: 200;
+
+  .dash-uls {
+    display: flex;
+    list-style-type: none;
+    li {
+        transition: .4s all ease-in;
+      margin-left: 3em;
+      padding-top: 0.5em;
+      a {
+        text-decoration: none;
+        color: #fff;
+      }
+
+      .active{
+        color: $footer;
+      }
+      
+    }
+    li:hover{
+        a{
+        color: $footer;
+        transition: .2s all ease-in;
+        }
+    }
+
+    .icons {
+      display: flex;
+      margin-left: auto;
+      padding-right: 3em;
+      color: #fff;
+      font-family: GothamLight;
+      margin-top: -0.5em;
+      li {
+      }
+      .button {
+          margin-top: 0.2em;
+        button {
+          padding: 0.9em 2em;
+          border: none;
+          color: #fff;
+          font-family: GothamMedium;
+          border-radius: 15px;
+          background: $footer 70%;
+        }
+      }
+      .notification {
+        margin-top: 0.7em;
+        margin-left: 1em;
+      }
+      .user-profile {
+        margin-left: 1em;
+      }
+    }
+  }
+}

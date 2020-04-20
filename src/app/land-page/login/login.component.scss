@@ -1,0 +1,105 @@
+@import '../../../assets/page-content/color.scss';
+.login-content{
+    width: 100vw;
+    height: 100vh;
+    .leave{
+        position: absolute;
+        left: 81em;
+        top: 20px;
+    }
+    background: #fff;
+    .login-flex{
+        width: inherit;
+        height: inherit;
+        display: flex;
+        padding-bottom: 2em;
+        .side1{
+                position: relative;
+            .gradient{
+                position:absolute;
+                background: linear-gradient(240deg,#000 100%,rgba(230, 230, 230, 0.377) 100%);
+                width: inherit;
+                height: inherit;
+                opacity: 0.6;
+                top: 0;
+                left: 0;
+                right: 0;
+                bottom: 0;
+                z-index: 4;
+            }
+            color: #fff;
+            background: url('../../../assets/img/landpage/xiaofen-p-6fAOugJBCMU-unsplash.jpg');
+            background-size: cover;
+            flex:2.3;
+            .content{
+                position: absolute;
+                h2{
+                    font-family: GothamBold;
+                    font-size: 30pt;
+                }
+                p{
+                    font-family: GothamMedium;
+                }
+                    padding: 3em;
+                    z-index: 6; 
+            }
+           
+        }
+        .side2{
+            flex:2;
+            background:url('../../../assets/img/landpage/01-mask-man-thumbnail.png');
+            background-repeat: no-repeat;
+            background-size: 200px;
+            background-position: 470px 310px;
+            padding: 2em;
+            h1{
+                font-family: GothamMedium;
+                color: #3f3e3e;
+            }
+            form{
+                padding-left: 3em;
+                padding-top: 1em;
+            }
+            div{
+                position: relative;
+                label{
+                    position: absolute;
+                    top: -7px;
+                    left: 15px;
+                    background: #fff;
+                    padding: 0 .3em;
+                    font-family: GothamLight;
+                    color: #3a3838;
+                }
+
+                input{
+                    width: 352px;
+                    height: 48px;
+                    border: none;
+                    border-radius: 10px;
+                    border: 1.8px solid rgba(105, 81, 201, 0.719);
+                    padding-left: 7px;
+                    outline: none;
+                    margin-bottom: 2em;
+                }
+            }
+            .account{
+                display: flex;
+                p{
+                    flex: 3;
+                    color: $footer;
+                    font-family: GothamLight;
+                }
+                button{
+                    flex: 1;
+                    margin-right: 8em;
+                    border: none;
+                    color: #fff;
+                    font-family: GothamMedium;
+                    border-radius: 5px;
+                    background: $footer 70%;
+                }
+            }
+        }
+    }
+}

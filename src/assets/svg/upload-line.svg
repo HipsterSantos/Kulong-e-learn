@@ -1,0 +1,15 @@
+<svg id="upload-line" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="36" height="36" viewBox="0 0 36 36">
+  <defs>
+    <clipPath id="clip-path">
+      <path id="Mask" d="M1,30a1,1,0,1,1,0-2H27a1,1,0,1,1,0,2Zm12-5.52V3.83L4.81,12A1,1,0,1,1,3.39,10.61L14,0,24.6,10.59A1,1,0,0,1,23.19,12L15,3.83V24.48a1,1,0,0,1-2,0Z"/>
+    </clipPath>
+  </defs>
+  <g id="color" transform="translate(4 3)">
+    <path id="Mask-2" data-name="Mask" d="M1,30a1,1,0,1,1,0-2H27a1,1,0,1,1,0,2Zm12-5.52V3.83L4.81,12A1,1,0,1,1,3.39,10.61L14,0,24.6,10.59A1,1,0,0,1,23.19,12L15,3.83V24.48a1,1,0,0,1-2,0Z"/>
+    <g id="color-2" data-name="color" clip-path="url(#clip-path)">
+      <g id="color-3" data-name="color" transform="translate(-4 -3)">
+        <rect id="Rectangle" width="36" height="36" fill="#737373"/>
+      </g>
+    </g>
+  </g>
+</svg>

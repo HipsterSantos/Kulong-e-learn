@@ -1,0 +1,52 @@
+
+@import '../../../assets/page-content/color.scss';
+.video-main {
+  display: flex;
+  height: 100vh;
+  .poster {
+    flex: 2;
+    margin:1em .6em;
+    width: inherit;
+    margin-bottom: 1em;
+    video{
+        width:700px;
+        height: 400px;
+    }
+    figcaption{
+        ul{
+            display: flex;
+            list-style-type: none;
+            padding-left: 45px;
+            li{
+                margin-left: 1em;
+            }
+        }
+    }
+  }
+  .modules {
+      position: static;
+      background: #303030;
+      box-shadow: -15px 3px 25px rgba(0,0,0,.2);
+     flex: 1;
+     padding-right: 1.7em;
+     margin-left: -1em;
+     overflow-y: scroll;
+     padding-left: .8em;
+     padding-top: 2em;
+     margin-top:-1em;
+    ul{
+        padding-left:0;
+        li{
+            line-height:1.5;
+            margin-top: .6em;
+            font-weight: 500;
+        }
+        h4{
+            background: rgba(0,0,0,.4);
+            padding:1em;
+        }
+    }
+  }
+
+//   margin-bottom: 6em;
+}

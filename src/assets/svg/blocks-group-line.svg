@@ -1,0 +1,15 @@
+<svg id="blocks-group-line" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="36" height="36" viewBox="0 0 36 36">
+  <defs>
+    <clipPath id="clip-path">
+      <path id="Mask" d="M23.08,31.822,16,28.562l-7.08,3.26a1,1,0,0,1-.84,0l-7.5-3.45a1,1,0,0,1-.58-.91v-9.78a1,1,0,0,1,.58-.91l6.9-3.18V4.452a1,1,0,0,1,.58-.91l7.5-3.45a1,1,0,0,1,.84,0l7.5,3.45a1,1,0,0,1,.6.9v9.14l6.93,3.19a1,1,0,0,1,.571.91v9.78a1,1,0,0,1-.58.91l-7.5,3.45a1,1,0,0,1-.841,0Z" transform="translate(0.1 0.988)"/>
+    </clipPath>
+  </defs>
+  <g id="color" transform="translate(2 1)">
+    <path id="Mask-2" data-name="Mask" d="M23.08,31.822,16,28.562l-7.08,3.26a1,1,0,0,1-.84,0l-7.5-3.45a1,1,0,0,1-.58-.91v-9.78a1,1,0,0,1,.58-.91l6.9-3.18V4.452a1,1,0,0,1,.58-.91l7.5-3.45a1,1,0,0,1,.84,0l7.5,3.45a1,1,0,0,1,.6.9v9.14l6.93,3.19a1,1,0,0,1,.571.91v9.78a1,1,0,0,1-.58.91l-7.5,3.45a1,1,0,0,1-.841,0Z" transform="translate(0.1 0.988)"/>
+    <g id="color-2" data-name="color" clip-path="url(#clip-path)">
+      <g id="color-3" data-name="color" transform="translate(-2 -1)">
+        <rect id="Rectangle" width="36" height="36" fill="#737373"/>
+      </g>
+    </g>
+  </g>
+</svg>

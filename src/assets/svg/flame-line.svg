@@ -1,0 +1,15 @@
+<svg id="flame-line" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="36" height="36" viewBox="0 0 36 36">
+  <defs>
+    <clipPath id="clip-path">
+      <path id="Mask" d="M8.672,32.006c-5.81,0-8.67-4.28-8.67-9.39a9.3,9.3,0,0,1,1.419-5.11c.98-1.72,6.44-11.63,6.44-11.63a1,1,0,0,1,1.75,0l3,5.279,6-10.64a1,1,0,0,1,1.75,0s6.75,12.06,7.94,14.15a11.13,11.13,0,0,1,1.7,6.12c0,6.221-4.72,11.22-10.52,11.22Z" transform="translate(0.998 0.994)"/>
+    </clipPath>
+  </defs>
+  <g id="color" transform="translate(2 1)">
+    <path id="Mask-2" data-name="Mask" d="M8.672,32.006c-5.81,0-8.67-4.28-8.67-9.39a9.3,9.3,0,0,1,1.419-5.11c.98-1.72,6.44-11.63,6.44-11.63a1,1,0,0,1,1.75,0l3,5.279,6-10.64a1,1,0,0,1,1.75,0s6.75,12.06,7.94,14.15a11.13,11.13,0,0,1,1.7,6.12c0,6.221-4.72,11.22-10.52,11.22Z" transform="translate(0.998 0.994)"/>
+    <g id="color-2" data-name="color" clip-path="url(#clip-path)">
+      <g id="color-3" data-name="color" transform="translate(-2 -1)">
+        <rect id="Rectangle" width="36" height="36" fill="#737373"/>
+      </g>
+    </g>
+  </g>
+</svg>

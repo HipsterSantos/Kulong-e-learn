@@ -1,0 +1,14 @@
+.notify-content{
+    position: absolute;
+    background: #303030;
+    box-shadow: 3px 13px 24px rgba(0,0,0,.2);
+    z-index:300;
+    width: 380px;
+    left:66.8vw;
+    height: 500px;
+    overflow-y: auto;
+    color:#fff;
+    border-radius: 5px;
+    padding: 1em 2em;
+    top:10.4vh;
+}

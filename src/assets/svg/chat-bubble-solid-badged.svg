@@ -1,0 +1,16 @@
+<svg id="chat-bubble-solid-badged" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="36" height="36" viewBox="0 0 36 36">
+  <defs>
+    <clipPath id="clip-path">
+      <path id="Mask" d="M26.41,30.84l-5.53-3.52A18,18,0,0,1,16,28C7.18,28,0,21.72,0,14S7.18,0,16,0a18,18,0,0,1,5,.7A7.458,7.458,0,0,0,22.2,8H9.28a1,1,0,1,0,0,2H22.72a1,1,0,0,0,.931-.65A7.478,7.478,0,0,0,31.27,10a12.332,12.332,0,0,1,.68,4,13,13,0,0,1-4,9.27V30a1,1,0,0,1-1.541.841Z" transform="translate(0 0.5)"/>
+    </clipPath>
+  </defs>
+  <g id="color" transform="translate(2 2)">
+    <path id="Mask-2" data-name="Mask" d="M26.41,30.84l-5.53-3.52A18,18,0,0,1,16,28C7.18,28,0,21.72,0,14S7.18,0,16,0a18,18,0,0,1,5,.7A7.458,7.458,0,0,0,22.2,8H9.28a1,1,0,1,0,0,2H22.72a1,1,0,0,0,.931-.65A7.478,7.478,0,0,0,31.27,10a12.332,12.332,0,0,1,.68,4,13,13,0,0,1-4,9.27V30a1,1,0,0,1-1.541.841Z" transform="translate(0 0.5)"/>
+    <g id="color-2" data-name="color" clip-path="url(#clip-path)">
+      <g id="color-3" data-name="color" transform="translate(-2 -2)">
+        <rect id="Rectangle" width="36" height="36" fill="#737373"/>
+      </g>
+    </g>
+  </g>
+  <circle id="Oval" cx="5" cy="5" r="5" transform="translate(25 0.75)" fill="#e62700"/>
+</svg>

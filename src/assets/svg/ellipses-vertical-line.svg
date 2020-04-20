@@ -1,0 +1,15 @@
+<svg id="ellipses-vertical-line" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="36" height="36" viewBox="0 0 36 36">
+  <defs>
+    <clipPath id="clip-path">
+      <path id="Mask" d="M0,29.1A2.9,2.9,0,1,1,2.9,32,2.9,2.9,0,0,1,0,29.1ZM0,16a2.9,2.9,0,1,1,2.9,2.9A2.9,2.9,0,0,1,0,16ZM0,2.9A2.9,2.9,0,1,1,2.9,5.8,2.9,2.9,0,0,1,0,2.9Z" transform="translate(0.1)"/>
+    </clipPath>
+  </defs>
+  <g id="mask-2" data-name="mask" transform="translate(15 2)">
+    <path id="Mask-3" data-name="Mask" d="M0,29.1A2.9,2.9,0,1,1,2.9,32,2.9,2.9,0,0,1,0,29.1ZM0,16a2.9,2.9,0,1,1,2.9,2.9A2.9,2.9,0,0,1,0,16ZM0,2.9A2.9,2.9,0,1,1,2.9,5.8,2.9,2.9,0,0,1,0,2.9Z" transform="translate(0.1)"/>
+    <g id="mask-4" data-name="mask" clip-path="url(#clip-path)">
+      <g id="color" transform="translate(-15 -2)">
+        <rect id="Rectangle" width="36" height="36" fill="#737373"/>
+      </g>
+    </g>
+  </g>
+</svg>

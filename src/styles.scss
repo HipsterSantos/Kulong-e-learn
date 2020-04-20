@@ -1,0 +1,28 @@
+/* You can add global styles to this file, and also import other style files */
+html{
+    width: 100vw;
+    height: 100vh;
+}
+@font-face{
+    src: url('./assets/fonts/Gotham-Thin.otf');
+    font-family: 'GothamThin';
+}
+
+@font-face{
+    src: url('./assets/fonts/GothamMedium.ttf');
+    font-family: 'GothamMedium';
+}
+
+@font-face{
+    src: url('./assets/fonts/GothamBold.ttf');
+    font-family: 'GothamBold';
+}
+@font-face{
+    src: url('./assets/fonts/GothamLight.ttf');
+    font-family: 'GothamLight';
+}
+
+*,::after,::before{
+    font-family: GothamThin;
+    box-sizing: border-box;
+}

@@ -1,0 +1,61 @@
+@import './../../../assets/page-content/color.scss';
+.side-nav{
+    position:fixed;
+    width: 300px;
+    height: 100vh;
+    background:#303030;
+    z-index:20;
+    top:80px;
+    color: #fff;
+    font-family: GothanLight;
+    box-shadow: 2px 1px 24px rgba(0,0,0,.4);
+    ul{
+        display: flex;
+      list-style-type: none;
+      flex-direction: column;
+    li {
+      transition: .4s all ease-in;
+      margin-top: 1em;
+      padding: 0.5em;
+      padding-left: 3em;
+      padding-right: -2em;
+      margin-left: -2em;
+      a {
+        text-decoration: none;
+        color: #fff;
+        font-weight: 500;
+        
+      }
+      .badget{
+          padding:.3em .4em;
+          margin-left: 1em;
+          background: $footer;
+          border-radius: 30%;
+         &#badget-aulas{
+            margin-left: 8.7em;
+          }
+
+          &#badget-professor{
+            margin-left: 5.7em;
+          }
+      }
+      &:hover{
+          background: $footer;
+          border-radius: 1px 15px 15px 1px;
+          transition: .2s ease-in all;
+         .badget{
+             background-color: #fff;
+             border-radius: 30%;
+             color: #000;
+         }
+      }
+
+      span{
+        font-weight: 500;
+        font-family: GothamLight;
+    }
+
+    }
+    }
+
+}

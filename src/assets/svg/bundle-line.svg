@@ -1,0 +1,15 @@
+<svg id="bundle-line" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="36" height="36" viewBox="0 0 36 36">
+  <defs>
+    <clipPath id="clip-path">
+      <path id="Mask" d="M13.6,31.9l-13-6.19a1,1,0,0,1-.6-.92V8.24a1,1,0,0,1,.57-.9L15.57.1a1,1,0,0,1,.87,0l13,6.21a1,1,0,0,1,.6.9V23.76a1,1,0,0,1-.571.9l-15,7.24a1,1,0,0,1-.87,0Z" transform="translate(0.99 0.04)"/>
+    </clipPath>
+  </defs>
+  <g id="color" transform="translate(2 2)">
+    <path id="Mask-2" data-name="Mask" d="M13.6,31.9l-13-6.19a1,1,0,0,1-.6-.92V8.24a1,1,0,0,1,.57-.9L15.57.1a1,1,0,0,1,.87,0l13,6.21a1,1,0,0,1,.6.9V23.76a1,1,0,0,1-.571.9l-15,7.24a1,1,0,0,1-.87,0Z" transform="translate(0.99 0.04)"/>
+    <g id="color-2" data-name="color" clip-path="url(#clip-path)">
+      <g id="color-3" data-name="color" transform="translate(-2 -2)">
+        <rect id="Rectangle" width="36" height="36" fill="#737373"/>
+      </g>
+    </g>
+  </g>
+</svg>

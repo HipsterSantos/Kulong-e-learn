@@ -1,0 +1,15 @@
+<svg id="times-close" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="36" height="36" viewBox="0 0 36 36">
+  <defs>
+    <clipPath id="clip-path">
+      <path id="Mask" d="M11.47,10l8.29-8.29A1,1,0,0,0,18.35.3l-8.29,8.29L1.77.294A1,1,0,0,0,.35,1.714L8.65,10l-8.3,8.29A1,1,0,1,0,1.76,19.7l8.3-8.29,8.29,8.29a1,1,0,0,0,1.41-1.41Z" transform="translate(0.94 0.996)"/>
+    </clipPath>
+  </defs>
+  <g id="mask-2" data-name="mask" transform="translate(7 7)">
+    <path id="Mask-3" data-name="Mask" d="M11.47,10l8.29-8.29A1,1,0,0,0,18.35.3l-8.29,8.29L1.77.294A1,1,0,0,0,.35,1.714L8.65,10l-8.3,8.29A1,1,0,1,0,1.76,19.7l8.3-8.29,8.29,8.29a1,1,0,0,0,1.41-1.41Z" transform="translate(0.94 0.996)"/>
+    <g id="mask-4" data-name="mask" clip-path="url(#clip-path)">
+      <g id="color" transform="translate(-7 -7)">
+        <rect id="Rectangle" width="36" height="36" fill="#737373"/>
+      </g>
+    </g>
+  </g>
+</svg>

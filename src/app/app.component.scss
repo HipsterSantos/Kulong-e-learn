@@ -1,0 +1,12 @@
+.container {
+  position: fixed;
+  
+  width: 100vw;
+  height: 100vh;
+  z-index: 10;
+  overflow-y: scroll;
+  // top: 80px;
+  left: 0;
+  right: 0;
+  bottom: 0;
+}
