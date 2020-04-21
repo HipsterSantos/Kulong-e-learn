@@ -15,11 +15,19 @@
       flex-direction: column;
     li {
       transition: .4s all ease-in;
-      margin-top: 1em;
-      padding: 0.5em;
-      padding-left: 3em;
-      padding-right: -2em;
+        padding: 0.5em;
+        margin-top: 2em;
+        width:270px;
+      // padding-left: 1em;
+      // padding-right: -2em;
       margin-left: -2em;
+      span{
+        padding-left:.4em;
+        svg{
+          // padding-top: 1.5em;
+          // margin-top: 1.5em;
+        }
+      }
       a {
         text-decoration: none;
         color: #fff;
@@ -27,8 +35,9 @@
         
       }
       .badget{
-          padding:.3em .4em;
+          padding:.4em .4em;
           margin-left: 1em;
+          margin-bottom:1.6em;
           background: $footer;
           border-radius: 30%;
          &#badget-aulas{

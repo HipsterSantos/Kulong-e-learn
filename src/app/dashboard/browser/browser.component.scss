@@ -1,3 +1,5 @@
+@import "../../../assets/page-content/color.scss";
+@import "../../../assets/page-content/responsive.scss";
 div {
   display: grid;
   grid-template-columns: repeat(auto-fill, minmax(339px, 1fr));
@@ -13,19 +15,43 @@ div {
       ul {
         display: flex;
         list-style-type: none;
-        // margin: 0;
+        margin-bottom: 0;
         padding-left: 0.5em !important;
 
         li {
           margin-right: 0.5em;
+          p {
+            font-family: GothamLight;
+            font-weight: 500;
+          }
         }
       }
       div {
         margin: 0;
         margin-top: -0.9em;
         padding-left: 0.3em;
+
         p {
           width: 260px;
+          span {
+            font-family: GothamLight;
+            font-weight: 500;
+            background: #555555;
+            color: #fff;
+            border-radius: 0.8em;
+            padding: 0.4em 0.5em;
+            margin-left: 0.7em;
+            margin-bottom: 0.5em;
+            line-height: 3;
+            .bump {
+              margin-right: 0.5em;
+            }
+
+            &:hover {
+              transition: all .5s ease-out;
+              background: $footer;
+            }
+          }
         }
       }
     }
