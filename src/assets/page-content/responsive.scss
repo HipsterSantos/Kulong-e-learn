@@ -1,0 +1,24 @@
+@mixin  responsiveDesign($device) {
+    @if $device ==  mobile {
+      @media screen and(min-width:320px) {
+        @content;
+      }
+    }
+ 
+    @if $device == laptop{
+     @media screen and (min-width:768px){
+        @content;
+     }
+    }
+    @if $device == desktop{
+      @media scree and (min-width:1224px){
+       @content;
+      }
+    }
+ 
+    @if $device == largedevice{
+      @media screen  and (min-width:1824px){
+        @content;
+      }
+    }
+ }

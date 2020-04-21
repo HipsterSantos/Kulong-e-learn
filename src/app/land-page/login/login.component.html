@@ -1,10 +1,5 @@
 <div class="login-content">
 
-    <img src="../../../assets/svg/times-close.svg" 
-    [routerLink]="['']"
-    alt="go back to home" class="leave">
-    <pc-nh-navbar></pc-nh-navbar>
-
    <div class="login-flex">
 
     <div class="side1">
@@ -26,7 +21,14 @@
         </div>
     </div>
     <div class="side2">
-        <h1>Cadastrar-se</h1>
+<div class="headline">
+    <h1>Cadastrar-se</h1>
+    <img src="../../../assets/svg/times-close.svg" 
+    [routerLink]="['']" width="80"
+    alt="go back to home" class="leave">
+      
+</div>
+    
         <form>
             <div>
                 <label for="">Nome completo</label>

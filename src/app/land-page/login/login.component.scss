@@ -1,20 +1,17 @@
 @import '../../../assets/page-content/color.scss';
 .login-content{
-    width: 100vw;
-    height: 100vh;
-    .leave{
-        position: absolute;
-        left: 81em;
-        top: 20px;
-    }
+    width: inherit;
+    height: 100% + 10%;
+    position: relative;
     background: #fff;
     .login-flex{
         width: inherit;
         height: inherit;
         display: flex;
-        padding-bottom: 2em;
+       
         .side1{
                 position: relative;
+                // padding-bottom: 5em;
             .gradient{
                 position:absolute;
                 background: linear-gradient(240deg,#000 100%,rgba(230, 230, 230, 0.377) 100%);
@@ -47,29 +44,54 @@
         }
         .side2{
             flex:2;
+            align-items: center;
             background:url('../../../assets/img/landpage/01-mask-man-thumbnail.png');
             background-repeat: no-repeat;
             background-size: 200px;
             background-position: 470px 310px;
-            padding: 2em;
+            padding:.2em 2em;
+            .headline{
+                padding: 1.6em .3em;
+                display: flex;
+                h1{
+                    flex:4;
+                }
+                .leave{
+                    position: relative;
+                    flex: 1%;
+                    width: 80px !important;
+                    height:80px;
+                    top:-.7em;
+                    left:1.9em;
+                }
+            }
             h1{
                 font-family: GothamMedium;
                 color: #3f3e3e;
             }
             form{
-                padding-left: 3em;
-                padding-top: 1em;
+                // padding-left: 3em;
+                // padding-top: 1em;
+                left: 2em;
+                padding:.4em 4em;
+                padding-bottom: 1em;
+                align-content: center;
+                align-items: center;
+                postion:relative;
+                width:inherit;
+                height: inherit;
             }
             div{
                 position: relative;
                 label{
                     position: absolute;
+                    border-radius: 2px;
                     top: -7px;
                     left: 15px;
                     background: #fff;
                     padding: 0 .3em;
                     font-family: GothamLight;
-                    color: #3a3838;
+                    color: #2b2929;
                 }
 
                 input{
@@ -78,8 +100,11 @@
                     border: none;
                     border-radius: 10px;
                     border: 1.8px solid rgba(105, 81, 201, 0.719);
-                    padding-left: 7px;
+                    padding-left: 10px;
                     outline: none;
+                    color:rgba(0,0,0,.8);
+                    font-weight: 600;
+                    font-family: GothamThin;
                     margin-bottom: 2em;
                 }
             }

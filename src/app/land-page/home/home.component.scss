@@ -1,4 +1,5 @@
 @import "../../../assets/page-content/color.scss";
+@import '../../../assets/page-content/responsive.scss';
 .pc-nh-container {
   color: #fff;
   background-color: #313131;
@@ -121,6 +122,10 @@ main .pc-nh-1st-section .pc-nh-overlaped-img .img2 {
   top: -110px;
   border-radius: 8px;
 }
+main .pc-nh-features {
+  margin-bottom:4em;
+  margin-top:4em;
+}
 main .pc-nh-features > div {
   display: flex;
   background: url("../../../assets/svg/back2.svg"),
@@ -152,6 +157,13 @@ main .pc-nh-features > h1 {
   text-align: center;
   margin-top: -1em;
   margin-bottom: 2em;
+}
+
+.universities{
+  margin-top:6em;
+  margin-bottom:4em;
+
+
 }
 
 main .universities .grid {
@@ -238,7 +250,8 @@ main .universities > h1 {
 footer {
   background: rgba(0, 0, 0, 0.1);
   .follow {
-    height: 150px;
+    padding: 0;
+    height: 90px;
     background: rgba(0, 0, 0, 0.1);
     padding-bottom: 2em;
     div {
@@ -282,3 +295,9 @@ footer {
 .flex-footer .uls li {
   line-height: 3;
 }
+
+// @media screen and (min-width:320px){
+//   .follow{
+//     background: $footer ;
+//   }
+// }
