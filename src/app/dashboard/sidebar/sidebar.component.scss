@@ -6,6 +6,8 @@
     background:#303030;
     z-index:20;
     top:80px;
+    bottom: 80;
+    // overflow-y: scroll;
     color: #fff;
     font-family: GothanLight;
     box-shadow: 2px 1px 24px rgba(0,0,0,.4);
@@ -13,6 +15,14 @@
         display: flex;
       list-style-type: none;
       flex-direction: column;
+     div{
+       li{
+         margin:1.2em -1.5em;
+         h5{
+           margin:0 !important;
+         }
+       }
+     }
     li {
       transition: .4s all ease-in;
         padding: 0.5em;
@@ -24,6 +34,8 @@
       span{
         padding-left:.4em;
         svg{
+          position: relative;
+          top:.3em;
           // padding-top: 1.5em;
           // margin-top: 1.5em;
         }
@@ -37,9 +49,11 @@
       .badget{
           padding:.4em .4em;
           margin-left: 1em;
-          margin-bottom:1.6em;
+          position: relative;
+          top:-.2em;
+          margin-top:-5em !important;
           background: $footer;
-          border-radius: 30%;
+          border-radius: 16em;
          &#badget-aulas{
             margin-left: 8.7em;
           }
@@ -54,7 +68,7 @@
           transition: .2s ease-in all;
          .badget{
              background-color: #fff;
-             border-radius: 30%;
+            //  border-radius: 30%;
              color: #000;
          }
       }
