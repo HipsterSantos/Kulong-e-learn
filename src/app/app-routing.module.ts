@@ -18,7 +18,7 @@ const routes: Routes = [
     {path:'universidade', component:UniversityComponent},
     // {path:'',component: LandPageComponent},
    {path:'videos', component: VideosComponent},
-  {path:'dashboard', component:DashboardComponent, children:[
+  {path:'dashboard', component:DashboardComponent,  children:[
     {path:'videos', component: VideosComponent},
     {path:'posts', component: PostsComponent},
     {path:'browser', component: BrowserComponent},

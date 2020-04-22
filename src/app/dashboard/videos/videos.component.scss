@@ -2,12 +2,35 @@
 @import '../../../assets/page-content/color.scss';
 .video-main {
   display: grid;
-  grid-template-columns: 2fr 1fr 250px 1fr 1fr;
-  grid-template-rows: repeat(7,100px);
+  grid-template-columns: 3fr 20px 350px;
+  grid-template-rows: repeat(auto,100px);
+  height: inherit;
+  position: relative;
+
+  ::-webkit-scrollbar {
+    width: .6em;
+}
+ 
+::-webkit-scrollbar-track {
+    -webkit-box-shadow: inset 0 0 6px rgba(0,0,0,0.3); 
+    border-radius: 10px;
+}
+ 
+::-webkit-scrollbar-thumb {
+    border-radius: 16px;
+    
+    -webkit-box-shadow: inset 0 0 6px rgba(0,0,0,0.5); 
+    background-color: $footer;
+}
 
   .video{
       grid-column:1/2;
       grid-row: 1/6;
+      video{
+          position: relative;
+          width:100%;
+          
+      }
   }
 
   .modules{
@@ -16,11 +39,53 @@
       box-shadow: -12px 2px 24px rgba(0,0,0,.2);
       overflow-y: scroll;
       height: 100%;
-      padding-top: 3em;
+      padding-top: 2.3em;
+    //   padding-right:2em;
       margin-top:-1em;
+      ul{
+          padding-left: .3em;
+          width: 300px;
+          h4{
+              background-color: rgba(0,0,0,.2);
+              padding:.5em;
+              span{
+                  position:relative;
+                  top:.4em;
+              }
+          }
+      }
+     
+  
   }
   .headline{
       grid-column:1/2;
-      grid-row: 5/6;
+      grid-row: 6/auto;
+      position: relative;
+      width: inherit;
+      height: auto;
+      padding-bottom:4em;
+      ul{
+          padding-top:1.2em;
+          padding-left: .7em;
+          list-style-type: none;
+          display: flex;
+          li{
+              margin-left: 2em;
+          }
+          li.slide-book{
+              margin-left: auto;
+              padding-right: 2em;
+              div{
+                  p{
+                      strong{
+                          margin-left:1.6em;
+                          background-color: $footer;
+                          padding: .5em 1.2em;
+                          border-radius: 2em;
+                      }
+                  }
+              }
+          }
+      }
   }
 }
