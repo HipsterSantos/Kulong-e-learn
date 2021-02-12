@@ -29,17 +29,15 @@ Files as Images
 ![Template I've done ](https://drive.google.com/file/d/1bIvYd5RxGRdJMzyIQglHtqiPAr7_n3My/view?usp=sharing)
 
 ![Template I've done ](https://drive.google.com/file/d/1kVvL79Yp_HEeJEcAV9iHKp-TfmxZjp0z/view?usp=sharing)
+(https://drive.google.com/file/d/1WjRvQDnXsTSkanCpUuMZwPWL53zxghZl/view?usp=sharing)
+(https://drive.google.com/file/d/1PJhKQSLvFPTbtAg9ru-3Pr2GqSV1EC89/view?usp=sharing)
+(https://drive.google.com/file/d/1OYeid3ha-V4yuF2da0-2fcykPLXh3W07/view?usp=sharing)
 
-![](https://drive.google.com/file/d/1WjRvQDnXsTSkanCpUuMZwPWL53zxghZl/view?usp=sharing)
-![](https://drive.google.com/file/d/1PJhKQSLvFPTbtAg9ru-3Pr2GqSV1EC89/view?usp=sharing)
+(https://drive.google.com/file/d/1bIvYd5RxGRdJMzyIQglHtqiPAr7_n3My/view?usp=sharing)
 
-![](https://drive.google.com/file/d/1OYeid3ha-V4yuF2da0-2fcykPLXh3W07/view?usp=sharing)
+(https://drive.google.com/file/d/1kVvL79Yp_HEeJEcAV9iHKp-TfmxZjp0z/view?usp=sharing)
 
-![](https://drive.google.com/file/d/1bIvYd5RxGRdJMzyIQglHtqiPAr7_n3My/view?usp=sharing)
-
-![](https://drive.google.com/file/d/1kVvL79Yp_HEeJEcAV9iHKp-TfmxZjp0z/view?usp=sharing)
-
-![](https://drive.google.com/file/d/1WjRvQDnXsTSkanCpUuMZwPWL53zxghZl/view?usp=sharing)
+(https://drive.google.com/file/d/1WjRvQDnXsTSkanCpUuMZwPWL53zxghZl/view?usp=sharing)
 
 ## Code scaffolding
 
