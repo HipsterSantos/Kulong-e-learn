@@ -29,8 +29,6 @@ Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app w
 
 ![Template I've done ](https://drive.google.com/file/d/1kVvL79Yp_HEeJEcAV9iHKp-TfmxZjp0z/view?usp=sharing)
 
-![Template I've done ](https://github.com/HipsterSantos/Kulong-e-learn/master/src/assets/img/dashboard/pro4.png)
-
 ![Template I've done ](https://drive.google.com/file/d/1WjRvQDnXsTSkanCpUuMZwPWL53zxghZl/view?usp=sharing)
 
 
