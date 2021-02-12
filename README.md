@@ -21,17 +21,17 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
 
+![Template I've done ](https://drive.google.com/file/d/1PJhKQSLvFPTbtAg9ru-3Pr2GqSV1EC89/view?usp=sharing)
 
+![Template I've done ](https://drive.google.com/file/d/1OYeid3ha-V4yuF2da0-2fcykPLXh3W07/view?usp=sharing)
 
-![Template I've done ](https://github.com/HipsterSantos/Kulong-e-learn/master/src/assets/img/dashboard/pro1.png)
+![Template I've done ](https://drive.google.com/file/d/1bIvYd5RxGRdJMzyIQglHtqiPAr7_n3My/view?usp=sharing)
 
-![Template I've done ](https://github.com/HipsterSantos/Kulong-e-learn/master/src/assets/img/dashboard/pro2.png)
-
-![Template I've done ](https://github.com/HipsterSantos/Kulong-e-learn/master/src/assets/img/dashboard/pro3.png)
+![Template I've done ](https://drive.google.com/file/d/1kVvL79Yp_HEeJEcAV9iHKp-TfmxZjp0z/view?usp=sharing)
 
 ![Template I've done ](https://github.com/HipsterSantos/Kulong-e-learn/master/src/assets/img/dashboard/pro4.png)
 
-![Template I've done ](https://github.com/HipsterSantos/Kulong-e-learn/master/src/assets/img/dashboard/pro5.png)
+![Template I've done ](https://drive.google.com/file/d/1WjRvQDnXsTSkanCpUuMZwPWL53zxghZl/view?usp=sharing)
 
 
 ## Code scaffolding
