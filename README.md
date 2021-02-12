@@ -21,6 +21,19 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
 
+
+
+![Template I've done ](https://github.com/HipsterSantos/Kulong-e-learn/master/src/assets/img/dashboard/pro1.png)
+
+![Template I've done ](https://github.com/HipsterSantos/Kulong-e-learn/master/src/assets/img/dashboard/pro2.png)
+
+![Template I've done ](https://github.com/HipsterSantos/Kulong-e-learn/master/src/assets/img/dashboard/pro3.png)
+
+![Template I've done ](https://github.com/HipsterSantos/Kulong-e-learn/master/src/assets/img/dashboard/pro4.png)
+
+![Template I've done ](https://github.com/HipsterSantos/Kulong-e-learn/master/src/assets/img/dashboard/pro5.png)
+
+
 ## Code scaffolding
 
 Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
